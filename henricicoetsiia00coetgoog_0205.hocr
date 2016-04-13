@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./henricicoetsiia00coetgoog_0205.png"; bbox 0 0 2528 3776; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 127 48 1096 262">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 127 48 1096 262">
+     <span class='ocr_line' id='line_1_1' title="bbox 127 48 1096 262; baseline 0.047 -68"><span class='ocrx_word' id='word_1_1' title='bbox 127 48 833 241; x_wconf 47' lang='lat' dir='ltr'><em>“wawmn</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 1018 157 1096 262; x_wconf 68' lang='lat' dir='ltr'><strong>m</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 130 2819 1200 3010">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 130 2819 1200 3010">
+     <span class='ocr_line' id='line_1_2' title="bbox 130 2819 1200 3010; baseline 0.063 -98"><span class='ocrx_word' id='word_1_3' title='bbox 130 2819 556 3010; x_wconf 33' lang='lat' dir='ltr'><em>÷qoe÷P„-4</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 592 2908 941 3006; x_wconf 55' lang='lat'><em>0-2--61-—7</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1060 2863 1064 2896; x_wconf 29' lang='grc' dir='ltr'><strong>ἶ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1197 2901 1200 2908; x_wconf 36' lang='lat'><strong>¹</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 143 3108 992 3250">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 143 3108 992 3250">
+     <span class='ocr_line' id='line_1_3' title="bbox 143 3108 992 3250; baseline 0.047 -57"><span class='ocrx_word' id='word_1_7' title='bbox 143 3151 565 3230; x_wconf 61' lang='lat'><em>·-·..-···-···5·=-·-·-··</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 609 3108 992 3250; x_wconf 56' lang='lat'><em>1--317-*10-3-</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 90 3347 1036 3548">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 90 3347 1036 3548">
+     <span class='ocr_line' id='line_1_4' title="bbox 90 3347 1036 3548; baseline 0.054 -135"><span class='ocrx_word' id='word_1_9' title='bbox 90 3416 100 3431; x_wconf 60' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 197 3347 349 3446; x_wconf 25' lang='lat' dir='ltr'><strong>&#39;Pretium</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 361 3351 520 3459; x_wconf 76' lang='lat' dir='ltr'>quaefitum</span> <span class='ocrx_word' id='word_1_12' title='bbox 532 3402 571 3427; x_wconf 79' lang='grc' dir='ltr'><em>ι-</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 583 3374 763 3547; x_wconf 48' lang='grc' dir='ltr'>6οοοξῇ-</span> <span class='ocrx_word' id='word_1_14' title='bbox 778 3393 818 3452; x_wconf 87' lang='lat'><em>12</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 828 3393 895 3462; x_wconf 63' lang='grc'><em>6-</em></span> <span class='ocrx_word' id='word_1_16' title='bbox 908 3402 925 3482; x_wconf 52' lang='lat' dir='ltr'><em>p</em></span> <span class='ocrx_word' id='word_1_17' title='bbox 939 3353 1036 3548; x_wconf 54' lang='grc' dir='ltr'><em>Ιὲ-ς</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1268 3776">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1268 3776">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1268 3776; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1268 3776; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

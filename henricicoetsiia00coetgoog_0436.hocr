@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./henricicoetsiia00coetgoog_0436.png"; bbox 0 0 2538 3806; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 203 206 953 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 203 154 953 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 203 206 953 338; baseline -0.025 -31"><span class='ocrx_word' id='word_1_1' title='bbox 203 213 285 338; x_wconf 66' lang='lat'>‘432</span> <span class='ocrx_word' id='word_1_2' title='bbox 452 213 563 300; x_wconf 65' lang='lat' dir='ltr'>Pars</span> <span class='ocrx_word' id='word_1_3' title='bbox 579 207 666 295; x_wconf 84' lang='lat'><em>111.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 709 207 837 318; x_wconf 70' lang='lat' dir='ltr'><em>caput</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 855 206 953 290; x_wconf 78' lang='grc' dir='ltr'>ιη.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 208 413 1094 530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 208 413 1094 530">
+     <span class='ocr_line' id='line_1_2' title="bbox 208 413 1094 530; baseline -0.012 -26"><span class='ocrx_word' id='word_1_6' title='bbox 208 429 372 530; x_wconf 71' lang='lat' dir='ltr'>Numerus</span> <span class='ocrx_word' id='word_1_7' title='bbox 383 424 559 500; x_wconf 81' lang='lat' dir='ltr'><strong>Literarum</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 618 421 780 492; x_wconf 85' lang='lat' dir='ltr'>Numerus</span> <span class='ocrx_word' id='word_1_9' title='bbox 792 413 1094 494; x_wconf 82' lang='lat' dir='ltr'><strong>combinationum.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 394 2843 911 3083">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 394 2843 911 3083">
+     <span class='ocr_line' id='line_1_3' title="bbox 394 2843 903 2934; baseline -0.014 0"><span class='ocrx_word' id='word_1_10' title='bbox 394 2864 415 2934; x_wconf 89' lang='lat'>9</span> <span class='ocrx_word' id='word_1_11' title='bbox 442 2843 903 2928; x_wconf 54' lang='lat'>···············-36³</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 849 2919 911 3083; baseline 0.145 -9"><span class='ocrx_word' id='word_1_12' title='bbox 849 2919 911 3083; x_wconf 83' lang='grc'>9)&gt;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 392 3247 879 3326">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 392 3247 879 3326">
+     <span class='ocr_line' id='line_1_5' title="bbox 392 3247 879 3326; baseline -0.016 8"><span class='ocrx_word' id='word_1_13' title='bbox 392 3247 432 3298; x_wconf 87' lang='lat'>¹⁰</span> <span class='ocrx_word' id='word_1_14' title='bbox 456 3269 792 3294; x_wconf 88' lang='lat'>-·--··-</span> <span class='ocrx_word' id='word_1_15' title='bbox 831 3250 879 3326; x_wconf 75' lang='lat'>45</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1274 3806">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1274 3806">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1274 3806; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1274 3806; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

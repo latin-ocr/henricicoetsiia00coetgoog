@@ -1,0 +1,53 @@
+’ 366 u' ‘Parsl ΙΙ. Caput 1.
+
+Ι , Summa quesitu-
+
+iversa erui poterunt Problemata circaomnes progressio-
+nes Arithmeticas solvenda. ¹
+Qae nos hic' etiam addere proposuimus cum suis s .
+iutionibus nullis tamen demonstrationibus munitis3 tum
+ut nimiam evitemus prolixitatem: tum quiaiilarum fundu·
+mentum · fiisu videri potestapudTacquetum in sua Arith-
+meticu Prndicu Et Schotenium in suis Exercitationibus
+Massematjcispag456 &sequ ubi illorum Ptoblematum
+‚solutioneuex calculo Algebraico deducit.
+
+” problema 1.
+
+D'atis terminu Minimo & maximo, & Numero Ter·
+minorum invenire Piug'reffionissummam & Communem
+
+Diffi-“imm κ
+
+'Pio Primo. Regula.
+
+ἶ Summum Extremorum (sc. minimi & maximi) Multi·
+plica pei semiffim Numeri terminorum, ProduCium erit
+
+Vei
+
+, Dimidium Summam Exiremorum multiplica per Nu-
+
+merumterminorum·
+’ · ’ ‘Vel
+
+’ '3 Summam Extremomm multiplica per Numerum ter.
+
+1*ss
+
+minorum δι Ρςοάιιᾶιιιη divide bifariam.
+Sic {i proponatur Progressiu , quam omnibus Proble-
+
+mutibus applicabimus.
+ι. 3. 7· 5. 9. ιι.
+ubi Terminus minimus* est ι ,
+¹ , maximus ιι
+· TerminorumNumerus 6
+communis Difl‘trentia 2 ⁴
+
+Prugreffionissumma 36
+
+Regi.
+
+ 
+
